@@ -1,0 +1,8 @@
+setup.py
+doceye/__init__.py
+doceye/doceye.py
+doceye.egg-info/PKG-INFO
+doceye.egg-info/SOURCES.txt
+doceye.egg-info/dependency_links.txt
+doceye.egg-info/requires.txt
+doceye.egg-info/top_level.txt
